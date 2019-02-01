@@ -1,4 +1,6 @@
-numbers = [11, 12, 8, 9, 7, 13]
+
+#Aryan Naveen
+#January 31, 2019
 
 def chi_squared(list):
     chi = 0
@@ -8,4 +10,3 @@ def chi_squared(list):
 
     return chi
 
-print( chi_squared(numbers) )
